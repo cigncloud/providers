@@ -1,0 +1,3 @@
+[submodule "cign_docker"]
+	path = cign_docker
+	url = https://github.com/cigncloud/cign_docker.git
